@@ -1,0 +1,14 @@
+/Users/m/code/parquimetro/TodoApi/bin/Release/netcoreapp2.2/TodoApi.deps.json
+/Users/m/code/parquimetro/TodoApi/bin/Release/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Users/m/code/parquimetro/TodoApi/bin/Release/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Users/m/code/parquimetro/TodoApi/bin/Release/netcoreapp2.2/TodoApi.dll
+/Users/m/code/parquimetro/TodoApi/bin/Release/netcoreapp2.2/TodoApi.pdb
+/Users/m/code/parquimetro/TodoApi/obj/Release/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Users/m/code/parquimetro/TodoApi/obj/Release/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Users/m/code/parquimetro/TodoApi/obj/Release/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Users/m/code/parquimetro/TodoApi/obj/Release/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Users/m/code/parquimetro/TodoApi/obj/Release/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Users/m/code/parquimetro/TodoApi/obj/Release/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Users/m/code/parquimetro/TodoApi/obj/Release/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/m/code/parquimetro/TodoApi/obj/Release/netcoreapp2.2/TodoApi.dll
+/Users/m/code/parquimetro/TodoApi/obj/Release/netcoreapp2.2/TodoApi.pdb
