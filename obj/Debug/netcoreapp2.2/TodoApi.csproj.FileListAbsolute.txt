@@ -12,3 +12,5 @@
 /Users/m/code/parquimetro/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
 /Users/m/code/parquimetro/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
 /Users/m/code/parquimetro/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/m/code/parquimetro/TodoApi/bin/Debug/netcoreapp2.2/app.yaml
+/Users/m/code/parquimetro/TodoApi/bin/Debug/netcoreapp2.2/Dockerfile
