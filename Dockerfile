@@ -3,4 +3,4 @@ ADD ./ /app
 ENV ASPNETCORE_URLS=http://*:${PORT} 
 WORKDIR /app 
 
-ENTRYPOINT [ "dotnet", "MainProject.dll" ]
+ENTRYPOINT [ "dotnet", "TodoApi.dll" ]
